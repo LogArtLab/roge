@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper in preferred-citation."
+title: "roge: Python implementation of ROGE (RObustness GEnetic algorithm)"
+type: software
+version: 0.1.0
+license: MIT
+authors:
+  - family-names: Silvetti
+    given-names: Simone
+keywords:
+  - signal temporal logic
+  - specification mining
+  - genetic algorithm
+  - Gaussian process
+  - time series classification
+preferred-citation:
+  type: conference-paper
+  title: "A Robust Genetic Algorithm for Learning Temporal Specifications from Data"
+  authors:
+    - family-names: Nenzi
+      given-names: Laura
+    - family-names: Silvetti
+      given-names: Simone
+    - family-names: Bartocci
+      given-names: Ezio
+    - family-names: Bortolussi
+      given-names: Luca
+  collection-title: "Quantitative Evaluation of Systems (QEST 2018)"
+  conference:
+    name: "15th International Conference on Quantitative Evaluation of Systems (QEST 2018)"
+  publisher:
+    name: Springer
+  series: "Lecture Notes in Computer Science"
+  volume: 11024
+  start: 323
+  end: 338
+  year: 2018
+  doi: "10.1007/978-3-319-99154-2_20"
+  identifiers:
+    - type: other
+      value: "arXiv:1711.06202"
+      description: "arXiv preprint"
